@@ -20,3 +20,15 @@ Source ; https://github.com/awesome-selfhosted
 | Driver Fusion | A lightweight, read‑only JDBC driver that translates SQL queries into SOAP requests for Oracle Fusion. | [https://github.com/krokozyab/ofjdbc](https://github.com/krokozyab/ofjdbc) | No |
 | Oracle Fusion Flight SQL Server | Oracle Fusion Flight SQL Server, Transform your Oracle Fusion into a modern data platform with no servers to manage, no containers to deploy, no infrastructure to maintain | [https://github.com/krokozyab/ofarrow](https://github.com/krokozyab/ofarrow) | No |
 | Markdown Editor | **MarkFlowy** Modern and intelligent Markdown editor. | [https://github.com/drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) | No |
+
+https://github.com/AbdullahGhanem/quran-database
+https://github.com/LadybirdBrowser/ladybird
+https://github.com/lightpanda-io/browser
+
+https://github.com/microsoft
+https://github.com/apexcharts/apexcharts.js/
+https://github.com/mikeroyal/Self-Hosting-Guide/?tab=readme-ov-file#Note-Taking
+https://github.com/winapps-org/winapps/
+https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI/
+https://github.com/drl990114/MarkFlowy/releases
+https://github.com/MushafAlMadinahVector/MushafAlMadinahVector/tree/main
